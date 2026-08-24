@@ -1,5 +1,15 @@
-<a href="https://www.imood.com/users/thatoddshade" rel="me" title="current mood"><img src="https://moods.imood.com/display/uname-thatoddshade/fg-af3029/bg-fffcf0/trans-1/imood.gif" alt="the current mood of thatoddshade at imood.com" border="0"/></a>
+<div class="h-card">
+<p>this is user <code class="p-name">thatoddshade</code> on the hub of gits.</p>
 
-[![stats](https://github-readme-stats.vercel.app/api?username=thatoddshade&count_private=true&show_icons=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/thatoddshade/ThatOddShade#readme)
+<dl>
+  <dt>webthing</dt>
+  <dd><p><a class="u-url u-uid" rel="me" href="//thatoddshade.is-a.dev/">thatoddshade.is-a.dev</a></p></dd>
 
-[![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatoddshade&show_icons=true&theme=transparent&hide_border=true)](https://github.com/thatoddshade/ThatOddShade#readme)
+  <dt>mood</dt>
+  <dd><a href="https://www.imood.com/users/thatoddshade" rel="me" title="current mood"><img src="https://moods.imood.com/display/uname-thatoddshade/fg-af3029/bg-fffcf0/trans-1/imood.gif" alt="the current mood of thatoddshade at imood.com" border="0"/></a></dd>
+
+  <dt>git (plural gits)</dt>
+  <dd>(<i>UK</i>, <i>Ireland</i>, <i>slang</i>, <i>derogatory</i>) A silly, incompetent, stupid or annoying person (usually a <s>man).</s><i>chronically online teen).</i></dd>
+</dl>
+</div>
+
